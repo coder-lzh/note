@@ -9,197 +9,282 @@
 
 <url>
   <loc>https://blog.share888.top/</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/nav/</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/frontend/css/01-%E5%B8%B8%E7%94%A8css%E6%A0%B7%E5%BC%8F</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/frontend/javascript/jstool</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/frontend/vue/01-vue3%E5%AD%A6%E4%B9%A0%E6%95%B4%E7%90%86</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/frontend/react/01-react%E5%88%9D%E4%BD%93%E9%AA%8C</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/frontend/node/01-npm%E5%8C%85%E7%AE%A1%E7%90%86</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/frontend/vitepress/01-vitepress%E5%AE%89%E8%A3%85</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/backend/pay/01-%E7%AC%AC%E4%B8%89%E6%96%B9%E6%94%AF%E4%BB%98</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.share888.top/note/backend/mysql/01-mysql%E7%9A%84%E5%AE%89%E8%A3%85</loc>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/server/server/01-%E9%98%BF%E9%87%8C%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8.html</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/server/bt/01-%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF.html</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/server/cdn/jsdelivr</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://blog.share888.top/note/server/shell/01-shell%E5%91%BD%E4%BB%A4.html</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <loc>https://blog.share888.top/note/server/linux/01-shell%E5%91%BD%E4%BB%A4.html</loc>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/efficiency/operations/01-md%E6%96%87%E6%A1%A3%E7%9A%84%E7%BB%9F%E8%AE%A1</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/efficiency/github/01-github%E7%9A%84action%E4%BD%BF%E7%94%A8</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/efficiency/automation/01-uibot%E6%98%AF%E4%BB%80%E4%B9%88</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.share888.top/note/efficiency/fiddler/01-fiddler%E7%9A%84%E5%AE%89%E8%A3%85.html</loc>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/stationmaster/seo/01-seo%E4%BB%8B%E7%BB%8D</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/stationmaster/self-media/01-markdown%E8%AF%AD%E6%B3%95.html</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.share888.top/note/software/google-plugins/01-%E5%A5%BD%E7%94%A8%E7%9A%84%E8%B0%B7%E6%AD%8C%E6%8F%92%E4%BB%B6.html</loc>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.share888.top/other/woolen-shearing/%E6%94%AF%E4%BB%98%E5%AE%9D%E5%A4%A7%E9%A2%9D%E7%BA%A2%E5%8C%85.html</loc>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/other/friend-contact/</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/about/me</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/frontend/css/02-sass</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/frontend/react/02-vscode%E9%85%8D%E7%BD%AEreact%E5%BF%AB%E9%80%9F%E5%BC%80%E5%8F%91</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/frontend/react/03-react%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/frontend/react/04-react%E7%BB%84%E4%BB%B6%E9%80%9A%E4%BF%A1</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.share888.top/note/frontend/react/05-react%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F</loc>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.share888.top/note/frontend/react/06-redux%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86</loc>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.share888.top/note/frontend/react/07-react%E8%B7%AF%E7%94%B1</loc>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.share888.top/note/frontend/react/08-%E6%89%93%E5%8C%85%E9%85%8D%E7%BD%AE</loc>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/frontend/node/01-npm%E5%8C%85%E7%AE%A1%E7%90%86.html</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.share888.top/note/frontend/node/02-%E6%95%B0%E6%8D%AEmock%E5%AE%9E%E7%8E%B0</loc>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/frontend/vitepress/02-vitepress%E9%85%8D%E7%BD%AE%E4%BF%AE%E6%94%B9</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/frontend/vitepress/03-%E8%87%AA%E5%AE%9A%E4%B9%89%E9%A1%B5%E9%9D%A2</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://blog.share888.top/note/frontend/vitepress/04-vitepress%E8%87%AA%E5%B8%A6%E9%BB%98%E8%AE%A4%E5%B1%9E%E6%80%A7</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <loc>https://blog.share888.top/note/frontend/vitepress/04-vitepress%E8%87%AA%E5%B8%A6%E9%BB%98%E8%AE%A4%E5%AF%B9%E8%B1%A1</loc>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/frontend/vitepress/05.vitepress%E9%83%A8%E7%BD%B2%E5%88%B0github</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/frontend/vitepress/06.vitepress%E7%89%B9%E6%AE%8A%E8%AE%BE%E7%BD%AE</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.share888.top/note/backend/mysql/02-%E5%AE%9E%E9%99%85%E5%B7%A5%E4%BD%9C%E4%B8%AD%E5%B8%B8%E7%94%A8sql</loc>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.share888.top/note/backend/mysql/03-mysql%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86</loc>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/server/server/02-%E9%98%BF%E9%87%8C%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%A3%81%E7%9B%98%E6%89%A9%E5%AE%B9.html</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/server/bt/02-%E8%87%AA%E5%8A%A8%E5%A4%87%E4%BB%BD%E6%95%B0%E6%8D%AE%E5%BA%93%E5%92%8C%E7%BD%91%E7%AB%99%E4%BB%A3%E7%A0%81.html</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://blog.share888.top/note/server/shell/02-%E5%A6%82%E4%BD%95%E6%9F%A5%E7%9C%8Blinux%E7%B3%BB%E7%BB%9F%E6%98%AF%E5%90%A6%E5%8C%85%E5%90%AB%E6%9F%90%E4%B8%AA%E6%8C%87%E4%BB%A4.html</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <loc>https://blog.share888.top/note/server/linux/02-%E5%A6%82%E4%BD%95%E6%9F%A5%E7%9C%8Blinux%E7%B3%BB%E7%BB%9F%E6%98%AF%E5%90%A6%E5%8C%85%E5%90%AB%E6%9F%90%E4%B8%AA%E6%8C%87%E4%BB%A4.html</loc>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://blog.share888.top/note/server/shell/03-%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%84%9A%E6%9C%AC.html</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <loc>https://blog.share888.top/note/server/linux/03-%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%84%9A%E6%9C%AC.html</loc>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/efficiency/github/02-githubpages%E7%9A%84%E4%BD%BF%E7%94%A8</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/efficiency/github/03-git%E9%83%A8%E7%BD%B2%E8%84%9A%E6%9C%AC</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/efficiency/github/04-idea%E6%93%8D%E4%BD%9Cgit</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.share888.top/note/efficiency/fiddler/02-fiddler%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8.html</loc>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/stationmaster/seo/02-%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E8%A2%AB%E8%B0%B7%E6%AD%8C%E5%92%8C%E7%99%BE%E5%BA%A6%E6%94%B6%E5%BD%95.html</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.share888.top/note/stationmaster/seo/03-%E5%A6%82%E4%BD%95%E5%9C%A8%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E4%B8%AD%E6%8E%A5%E5%85%A5%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A.html</loc>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://blog.share888.top/note/stationmaster/self-media/02-markdown%E4%B8%BB%E9%A2%98.html</loc>
-  <lastmod>2024-04-11T16:30:31+00:00</lastmod>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.share888.top/note/software/google-plugins/02-%E8%B0%B7%E6%AD%8C%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91.html</loc>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.share888.top/note/software/google-plugins/03-%E8%B0%B7%E6%AD%8C%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91-%E5%86%85%E7%BD%AE%E4%BA%8B%E4%BB%B6.html</loc>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.share888.top/note/software/google-plugins/04-%E8%B0%B7%E6%AD%8C%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91-%E4%B8%8A%E6%9E%B6%E5%88%B0%E8%B0%B7%E6%AD%8C%E5%95%86%E5%BA%97.html</loc>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.share888.top/other/woolen-shearing/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%B4%BB%E5%8A%A8.html</loc>
+  <lastmod>2024-05-03T03:39:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
