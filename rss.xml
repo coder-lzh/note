@@ -4,190 +4,185 @@
         <title>卡卡罗特</title>
         <link>https://blog.share888.top</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 15:35:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Oct 2024 15:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <copyright>如有转载或 CV 的请标注本站原文地址. Copyright © 2022-2024</copyright>
         <item>
-            <title><![CDATA[云服务器活动]]></title>
-            <link>https://blog.share888.top/other/woolen-shearing/云服务器活动.html</link>
-            <guid>https://blog.share888.top/other/woolen-shearing/云服务器活动.html</guid>
-            <pubDate>Wed, 30 Oct 2024 15:34:30 GMT</pubDate>
-            <description><![CDATA[云服务器超级优惠活动 
-大家都知道，服务器如果不搞活动的话，是非常的贵的，正常价格1k多的服务器，搞]]></description>
+            <title><![CDATA[01-Bing每日一图接口]]></title>
+            <link>https://blog.share888.top/note/back-end/api/01-Bing每日一图接口.html</link>
+            <guid>https://blog.share888.top/note/back-end/api/01-Bing每日一图接口.html</guid>
+            <pubDate>Thu, 31 Oct 2024 15:17:22 GMT</pubDate>
+            <description><![CDATA[01-Bing每日一图接口 
+接口地址：https://cn.bing.com/HPImageArc]]></description>
         </item>
         <item>
-            <title><![CDATA[支付宝大额红包]]></title>
-            <link>https://blog.share888.top/other/woolen-shearing/支付宝大额红包.html</link>
-            <guid>https://blog.share888.top/other/woolen-shearing/支付宝大额红包.html</guid>
-            <pubDate>Wed, 30 Oct 2024 15:34:30 GMT</pubDate>
-            <description><![CDATA[红包领取 
-支付宝大额红包 &ZeroWidthSpace;
-最近支付宝活动力度很大，身边的朋友都领]]></description>
+            <title><![CDATA[01-获取指定网站的所有的链接]]></title>
+            <link>https://blog.share888.top/note/back-end/crawl/01-获取指定网站的所有的链接.html</link>
+            <guid>https://blog.share888.top/note/back-end/crawl/01-获取指定网站的所有的链接.html</guid>
+            <pubDate>Thu, 31 Oct 2024 15:17:22 GMT</pubDate>
+            <description><![CDATA[01-获取指定网站的所有的链接 
+需求就是获取指定网站内的所有的url，这个还是有难度的，因为需要一]]></description>
         </item>
         <item>
-            <title><![CDATA[01-SEO介绍]]></title>
-            <link>https://blog.share888.top/note/stationmaster/seo/01-SEO介绍.html</link>
-            <guid>https://blog.share888.top/note/stationmaster/seo/01-SEO介绍.html</guid>
-            <pubDate>Wed, 30 Oct 2024 15:34:30 GMT</pubDate>
-            <description><![CDATA[什么是SEO 
-SEO是每个站长必备的技能]]></description>
+            <title><![CDATA[00-JAVA脚手架]]></title>
+            <link>https://blog.share888.top/note/back-end/java-tool/00-JAVA脚手架.html</link>
+            <guid>https://blog.share888.top/note/back-end/java-tool/00-JAVA脚手架.html</guid>
+            <pubDate>Thu, 31 Oct 2024 15:17:22 GMT</pubDate>
+            <description><![CDATA[JAVA脚手架 
+优秀JAVA博客 &ZeroWidthSpace;
+https://github.]]></description>
         </item>
         <item>
-            <title><![CDATA[02-自己的博客如何快速被谷歌和百度收录]]></title>
-            <link>https://blog.share888.top/note/stationmaster/seo/02-自己的博客如何快速被谷歌和百度收录.html</link>
-            <guid>https://blog.share888.top/note/stationmaster/seo/02-自己的博客如何快速被谷歌和百度收录.html</guid>
-            <pubDate>Wed, 30 Oct 2024 15:34:30 GMT</pubDate>
-            <description><![CDATA[自己的博客如何快速被谷歌和百度收录 
-sitemaps在线生成网站
-如何判断自己的网站是否被收录 &]]></description>
+            <title><![CDATA[01-JAVA工具类]]></title>
+            <link>https://blog.share888.top/note/back-end/java-tool/01-JAVA工具类.html</link>
+            <guid>https://blog.share888.top/note/back-end/java-tool/01-JAVA工具类.html</guid>
+            <pubDate>Thu, 31 Oct 2024 15:17:22 GMT</pubDate>
+            <description><![CDATA[JAVA工具类]]></description>
         </item>
         <item>
-            <title><![CDATA[03-如何在个人网站中接入谷歌广告]]></title>
-            <link>https://blog.share888.top/note/stationmaster/seo/03-如何在个人网站中接入谷歌广告.html</link>
-            <guid>https://blog.share888.top/note/stationmaster/seo/03-如何在个人网站中接入谷歌广告.html</guid>
-            <pubDate>Wed, 30 Oct 2024 15:34:30 GMT</pubDate>
-            <description><![CDATA[如何在个人网站中接入谷歌广告 
+            <title><![CDATA[02-HttpClient工具类]]></title>
+            <link>https://blog.share888.top/note/back-end/java-tool/02-HttpClient工具类.html</link>
+            <guid>https://blog.share888.top/note/back-end/java-tool/02-HttpClient工具类.html</guid>
+            <pubDate>Thu, 31 Oct 2024 15:17:22 GMT</pubDate>
+            <description><![CDATA[02-HttpClient工具类 
+httpClient实现 &ZeroWidthSpace;
+po]]></description>
+        </item>
+        <item>
+            <title><![CDATA[03-二维码工具类]]></title>
+            <link>https://blog.share888.top/note/back-end/java-tool/03-二维码工具类.html</link>
+            <guid>https://blog.share888.top/note/back-end/java-tool/03-二维码工具类.html</guid>
+            <pubDate>Thu, 31 Oct 2024 15:17:22 GMT</pubDate>
+            <description><![CDATA[二维码工具类 
+hutool工具类 &ZeroWidthSpace;
+xml&#x3C;!--hut]]></description>
+        </item>
+        <item>
+            <title><![CDATA[04-JSON工具类]]></title>
+            <link>https://blog.share888.top/note/back-end/java-tool/04-JSON工具类.html</link>
+            <guid>https://blog.share888.top/note/back-end/java-tool/04-JSON工具类.html</guid>
+            <pubDate>Thu, 31 Oct 2024 15:17:22 GMT</pubDate>
+            <description><![CDATA[JSON工具类 
+fastjson &ZeroWidthSpace;
+xml&#x3C;depend]]></description>
+        </item>
+        <item>
+            <title><![CDATA[05-参数校验工具类]]></title>
+            <link>https://blog.share888.top/note/back-end/java-tool/05-参数校验工具类.html</link>
+            <guid>https://blog.share888.top/note/back-end/java-tool/05-参数校验工具类.html</guid>
+            <pubDate>Thu, 31 Oct 2024 15:17:22 GMT</pubDate>
+            <description><![CDATA[参数校验工具类 
+validator参数校验 &ZeroWidthSpace;
 
-参考：https://zhuanlan.zhihu.com/p/5]]></description>
+@NotNull：]]></description>
         </item>
         <item>
-            <title><![CDATA[04-个人网站的广告收益]]></title>
-            <link>https://blog.share888.top/note/stationmaster/seo/04-个人网站的广告收益.html</link>
-            <guid>https://blog.share888.top/note/stationmaster/seo/04-个人网站的广告收益.html</guid>
-            <pubDate>Wed, 30 Oct 2024 15:34:30 GMT</pubDate>
-            <description><![CDATA[个人网站的广告收益 
-本篇主要分享下博主这个站点接入广告之后的收益情况。
-个人网站真的非常非常难做，]]></description>
+            <title><![CDATA[06-接口文档生成工具类]]></title>
+            <link>https://blog.share888.top/note/back-end/java-tool/06-接口文档生成工具类.html</link>
+            <guid>https://blog.share888.top/note/back-end/java-tool/06-接口文档生成工具类.html</guid>
+            <pubDate>Thu, 31 Oct 2024 15:17:22 GMT</pubDate>
+            <description><![CDATA[接口文档生成工具类 
+smart-doc-maven-plugin &ZeroWidthSpace;]]></description>
         </item>
         <item>
-            <title><![CDATA[我的健身日记]]></title>
-            <link>https://blog.share888.top/note/sport/我的健身日记.html</link>
-            <guid>https://blog.share888.top/note/sport/我的健身日记.html</guid>
-            <pubDate>Wed, 30 Oct 2024 15:34:30 GMT</pubDate>
-            <description><![CDATA[我的健身日记 
-主要记录一下我的健身之路的点点滴滴
-偶像 &ZeroWidthSpace;
-我心目中]]></description>
+            <title><![CDATA[09-List工具类]]></title>
+            <link>https://blog.share888.top/note/back-end/java-tool/09-List工具类.html</link>
+            <guid>https://blog.share888.top/note/back-end/java-tool/09-List工具类.html</guid>
+            <pubDate>Thu, 31 Oct 2024 15:17:22 GMT</pubDate>
+            <description><![CDATA[List工具类 
+list和树互转 &ZeroWidthSpace;
+TreeNodeUtil &Z]]></description>
         </item>
         <item>
-            <title><![CDATA[01-markdown语法]]></title>
-            <link>https://blog.share888.top/note/stationmaster/self-media/01-markdown语法.html</link>
-            <guid>https://blog.share888.top/note/stationmaster/self-media/01-markdown语法.html</guid>
-            <pubDate>Wed, 30 Oct 2024 15:34:30 GMT</pubDate>
-            <description><![CDATA[markdown语法 
-图片 &ZeroWidthSpace;
-markdown![评论截图](./]]></description>
+            <title><![CDATA[10-Xml工具类]]></title>
+            <link>https://blog.share888.top/note/back-end/java-tool/10-Xml工具类.html</link>
+            <guid>https://blog.share888.top/note/back-end/java-tool/10-Xml工具类.html</guid>
+            <pubDate>Thu, 31 Oct 2024 15:17:22 GMT</pubDate>
+            <description><![CDATA[10-Xml工具类 
+https://cloud.tencent.com/developer/art]]></description>
         </item>
         <item>
-            <title><![CDATA[02-markdown主题]]></title>
-            <link>https://blog.share888.top/note/stationmaster/self-media/02-markdown主题.html</link>
-            <guid>https://blog.share888.top/note/stationmaster/self-media/02-markdown主题.html</guid>
-            <pubDate>Wed, 30 Oct 2024 15:34:30 GMT</pubDate>
-            <description><![CDATA[markdown主题 
+            <title><![CDATA[11-jar包加密]]></title>
+            <link>https://blog.share888.top/note/back-end/java-tool/11-jar包加密.html</link>
+            <guid>https://blog.share888.top/note/back-end/java-tool/11-jar包加密.html</guid>
+            <pubDate>Thu, 31 Oct 2024 15:17:22 GMT</pubDate>
+            <description><![CDATA[11-jar包加密 
+ClassFinal实现 &ZeroWidthSpace;
 
-设置自定义主题。打开Typora&gt;文件&gt;偏好设置&gt;打开主]]></description>
+参考博客：htt]]></description>
         </item>
         <item>
-            <title><![CDATA[01-分享100个有意思的网站]]></title>
-            <link>https://blog.share888.top/note/share/01-分享100个有意思的网站.html</link>
-            <guid>https://blog.share888.top/note/share/01-分享100个有意思的网站.html</guid>
-            <pubDate>Wed, 30 Oct 2024 15:34:30 GMT</pubDate>
-            <description><![CDATA[分享100个有意思的网站 
-这些网站各具特色，涵盖了各种主题和领域。可以收藏一下，以备不时之需。
+            <title><![CDATA[12-流程条件控制]]></title>
+            <link>https://blog.share888.top/note/back-end/java-tool/12-流程条件控制.html</link>
+            <guid>https://blog.share888.top/note/back-end/java-tool/12-流程条件控制.html</guid>
+            <pubDate>Thu, 31 Oct 2024 15:17:22 GMT</pubDate>
+            <description><![CDATA[12-流程条件控制 
 
-]]></description>
+测试
+javapackage com.example.bootdemo.fl]]></description>
         </item>
         <item>
-            <title><![CDATA[anjian]]></title>
-            <link>https://blog.share888.top/note/software/dev-tool/anjian.html</link>
-            <guid>https://blog.share888.top/note/software/dev-tool/anjian.html</guid>
-            <pubDate>Wed, 30 Oct 2024 15:34:30 GMT</pubDate>
-            <description><![CDATA[按键精灵 
-官网：https://www.anjian.com/
-蓝奏网盘：https://wwd.]]></description>
+            <title><![CDATA[13-jdbc批量插入]]></title>
+            <link>https://blog.share888.top/note/back-end/java-tool/13-jdbc批量插入.html</link>
+            <guid>https://blog.share888.top/note/back-end/java-tool/13-jdbc批量插入.html</guid>
+            <pubDate>Thu, 31 Oct 2024 15:17:22 GMT</pubDate>
+            <description><![CDATA[13-jdbc批量插入 
+mybatis批量插入 &ZeroWidthSpace;
+javapubl]]></description>
         </item>
         <item>
-            <title><![CDATA[idea]]></title>
-            <link>https://blog.share888.top/note/software/dev-tool/idea.html</link>
-            <guid>https://blog.share888.top/note/software/dev-tool/idea.html</guid>
-            <pubDate>Wed, 30 Oct 2024 15:34:30 GMT</pubDate>
-            <description><![CDATA[IDEA 
-下载 &ZeroWidthSpace;
-IDEA官方各版本下载地址
-datagrip官方]]></description>
+            <title><![CDATA[01-Lucene入门案例]]></title>
+            <link>https://blog.share888.top/note/back-end/lucene/01-Lucene入门案例.html</link>
+            <guid>https://blog.share888.top/note/back-end/lucene/01-Lucene入门案例.html</guid>
+            <pubDate>Thu, 31 Oct 2024 15:17:22 GMT</pubDate>
+            <description><![CDATA[01-Lucene入门案例 
+POM依赖 &ZeroWidthSpace;
+java&#x3C;de]]></description>
         </item>
         <item>
-            <title><![CDATA[navicat]]></title>
-            <link>https://blog.share888.top/note/software/dev-tool/navicat.html</link>
-            <guid>https://blog.share888.top/note/software/dev-tool/navicat.html</guid>
-            <pubDate>Wed, 30 Oct 2024 15:34:30 GMT</pubDate>
-            <description><![CDATA[navicat 
-下载地址 &ZeroWidthSpace;
-navicat121_premium_]]></description>
+            <title><![CDATA[02-springBoot整合lucene]]></title>
+            <link>https://blog.share888.top/note/back-end/lucene/02-springBoot整合lucene.html</link>
+            <guid>https://blog.share888.top/note/back-end/lucene/02-springBoot整合lucene.html</guid>
+            <pubDate>Thu, 31 Oct 2024 15:17:22 GMT</pubDate>
+            <description><![CDATA[02-springBoot整合lucene 
+application.properties &Zer]]></description>
         </item>
         <item>
-            <title><![CDATA[nginx]]></title>
-            <link>https://blog.share888.top/note/software/dev-tool/nginx.html</link>
-            <guid>https://blog.share888.top/note/software/dev-tool/nginx.html</guid>
-            <pubDate>Wed, 30 Oct 2024 15:34:30 GMT</pubDate>
-            <description><![CDATA[NGINX]]></description>
+            <title><![CDATA[maven中的内置变量]]></title>
+            <link>https://blog.share888.top/note/back-end/maven/maven中的内置变量.html</link>
+            <guid>https://blog.share888.top/note/back-end/maven/maven中的内置变量.html</guid>
+            <pubDate>Thu, 31 Oct 2024 15:17:22 GMT</pubDate>
+            <description><![CDATA[maven中的内置变量 
+maven中有许多的内置变量，我们可以直接使用，非常的方便
+在 Maven]]></description>
         </item>
         <item>
-            <title><![CDATA[webstorm]]></title>
-            <link>https://blog.share888.top/note/software/dev-tool/webstorm.html</link>
-            <guid>https://blog.share888.top/note/software/dev-tool/webstorm.html</guid>
-            <pubDate>Wed, 30 Oct 2024 15:34:30 GMT</pubDate>
-            <description><![CDATA[WebStorm 
-下载 &ZeroWidthSpace;
-webstorm官方各版本下载地址
-We]]></description>
+            <title><![CDATA[maven常见的需求]]></title>
+            <link>https://blog.share888.top/note/back-end/maven/maven常见的需求.html</link>
+            <guid>https://blog.share888.top/note/back-end/maven/maven常见的需求.html</guid>
+            <pubDate>Thu, 31 Oct 2024 15:17:22 GMT</pubDate>
+            <description><![CDATA[maven常见的需求 
+打包指定资源目录 &ZeroWidthSpace;
+需求：比如我项目根目录有]]></description>
         </item>
         <item>
-            <title><![CDATA[01-好用的谷歌插件]]></title>
-            <link>https://blog.share888.top/note/software/google-plugins/01-好用的谷歌插件.html</link>
-            <guid>https://blog.share888.top/note/software/google-plugins/01-好用的谷歌插件.html</guid>
-            <pubDate>Wed, 30 Oct 2024 15:34:30 GMT</pubDate>
-            <description><![CDATA[01-好用的谷歌插件 
-谷歌商店：https://chromewebstore.google.com]]></description>
+            <title><![CDATA[01-mysql的安装]]></title>
+            <link>https://blog.share888.top/note/back-end/mysql/01-mysql的安装.html</link>
+            <guid>https://blog.share888.top/note/back-end/mysql/01-mysql的安装.html</guid>
+            <pubDate>Thu, 31 Oct 2024 15:17:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[02-谷歌插件开发]]></title>
-            <link>https://blog.share888.top/note/software/google-plugins/02-谷歌插件开发.html</link>
-            <guid>https://blog.share888.top/note/software/google-plugins/02-谷歌插件开发.html</guid>
-            <pubDate>Wed, 30 Oct 2024 15:34:30 GMT</pubDate>
-            <description><![CDATA[02-谷歌插件开发 
-
-教程：https://developer.mozilla.org/zh-CN]]></description>
-        </item>
-        <item>
-            <title><![CDATA[03-谷歌插件开发-内置事件]]></title>
-            <link>https://blog.share888.top/note/software/google-plugins/03-谷歌插件开发-内置事件.html</link>
-            <guid>https://blog.share888.top/note/software/google-plugins/03-谷歌插件开发-内置事件.html</guid>
-            <pubDate>Wed, 30 Oct 2024 15:34:30 GMT</pubDate>
-            <description><![CDATA[03-谷歌插件开发-内置事件 
-本篇给大家讲解一下谷歌插件中常用的内置事件函数
-json{
-  "p]]></description>
-        </item>
-        <item>
-            <title><![CDATA[04-谷歌插件开发-上架到谷歌商店]]></title>
-            <link>https://blog.share888.top/note/software/google-plugins/04-谷歌插件开发-上架到谷歌商店.html</link>
-            <guid>https://blog.share888.top/note/software/google-plugins/04-谷歌插件开发-上架到谷歌商店.html</guid>
-            <pubDate>Wed, 30 Oct 2024 15:34:30 GMT</pubDate>
-            <description><![CDATA[04-谷歌插件开发-上架到谷歌商店 
-本篇给大家讲解一上架到谷歌商店
-
-chrome 发布插件需要花]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CDN的计费方式]]></title>
-            <link>https://blog.share888.top/note/server/cdn/CDN的计费方式.html</link>
-            <guid>https://blog.share888.top/note/server/cdn/CDN的计费方式.html</guid>
-            <pubDate>Wed, 30 Oct 2024 15:34:30 GMT</pubDate>
-            <description><![CDATA[CDN的计费方式 
-CDN计费方式分为按流量计费和按带宽计费两种，按流量是根据实际使用的CDN加速流]]></description>
+            <title><![CDATA[02-实际工作中常用SQL]]></title>
+            <link>https://blog.share888.top/note/back-end/mysql/02-实际工作中常用SQL.html</link>
+            <guid>https://blog.share888.top/note/back-end/mysql/02-实际工作中常用SQL.html</guid>
+            <pubDate>Thu, 31 Oct 2024 15:17:22 GMT</pubDate>
+            <description><![CDATA[实际工作中常用SQL 
+查看版本
+sqlselect version()
+1数据准备
+shellCR]]></description>
         </item>
     </channel>
 </rss>
