@@ -4,7 +4,7 @@
         <title>卡卡罗特</title>
         <link>https://blog.share888.top</link>
         <description>程序猿,日常分享,实用工具,个人网站,效率软件, 健身,前端,VUE,Java,JavaWEB,Spring,SpringBoot,微服务,副业分享,全栈开发,独立开发,独立站长,程序猿工具集</description>
-        <lastBuildDate>Fri, 24 Oct 2025 14:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Oct 2025 13:01:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
@@ -13,7 +13,7 @@
             <title><![CDATA[langchainjs]]></title>
             <link>https://blog.share888.top/note/ai/ai/langchainjs.html</link>
             <guid>https://blog.share888.top/note/ai/ai/langchainjs.html</guid>
-            <pubDate>Fri, 24 Oct 2025 14:39:41 GMT</pubDate>
+            <pubDate>Sun, 26 Oct 2025 12:59:28 GMT</pubDate>
             <description><![CDATA[langchainjs 
 github:https://github.com/langchain-a]]></description>
         </item>
@@ -21,7 +21,7 @@ github:https://github.com/langchain-a]]></description>
             <title><![CDATA[spring-ai]]></title>
             <link>https://blog.share888.top/note/ai/ai/spring-ai.html</link>
             <guid>https://blog.share888.top/note/ai/ai/spring-ai.html</guid>
-            <pubDate>Fri, 24 Oct 2025 14:39:41 GMT</pubDate>
+            <pubDate>Sun, 26 Oct 2025 12:59:28 GMT</pubDate>
             <description><![CDATA[spring-ai 
 https://gitee.com/lzh1995/spring-ai-dem]]></description>
         </item>
@@ -29,7 +29,7 @@ https://gitee.com/lzh1995/spring-ai-dem]]></description>
             <title><![CDATA[opencv初体验]]></title>
             <link>https://blog.share888.top/note/ai/opencv/opencv初体验.html</link>
             <guid>https://blog.share888.top/note/ai/opencv/opencv初体验.html</guid>
-            <pubDate>Fri, 24 Oct 2025 14:39:41 GMT</pubDate>
+            <pubDate>Sun, 26 Oct 2025 12:59:28 GMT</pubDate>
             <description><![CDATA[openCV初体验 
 windows环境安装openCV &ZeroWidthSpace;
 官网地址]]></description>
@@ -38,7 +38,7 @@ windows环境安装openCV &ZeroWidthSpace;
             <title><![CDATA[01-Bing每日一图接口]]></title>
             <link>https://blog.share888.top/note/back-end/api/01-Bing每日一图接口.html</link>
             <guid>https://blog.share888.top/note/back-end/api/01-Bing每日一图接口.html</guid>
-            <pubDate>Fri, 24 Oct 2025 14:39:41 GMT</pubDate>
+            <pubDate>Sun, 26 Oct 2025 12:59:28 GMT</pubDate>
             <description><![CDATA[01-Bing每日一图接口 
 接口地址：https://cn.bing.com/HPImageArc]]></description>
         </item>
@@ -46,7 +46,7 @@ windows环境安装openCV &ZeroWidthSpace;
             <title><![CDATA[02-腾讯API高清QQ头像https调用接口]]></title>
             <link>https://blog.share888.top/note/back-end/api/02-腾讯API高清QQ头像https调用接口.html</link>
             <guid>https://blog.share888.top/note/back-end/api/02-腾讯API高清QQ头像https调用接口.html</guid>
-            <pubDate>Fri, 24 Oct 2025 14:39:41 GMT</pubDate>
+            <pubDate>Sun, 26 Oct 2025 12:59:28 GMT</pubDate>
             <description><![CDATA[02-腾讯API高清QQ头像https调用接口 
 写网页的时候，会经常使用到调用QQ头像来获取自己的]]></description>
         </item>
@@ -54,7 +54,7 @@ windows环境安装openCV &ZeroWidthSpace;
             <title><![CDATA[01-获取指定网站的所有的链接]]></title>
             <link>https://blog.share888.top/note/back-end/crawl/01-获取指定网站的所有的链接.html</link>
             <guid>https://blog.share888.top/note/back-end/crawl/01-获取指定网站的所有的链接.html</guid>
-            <pubDate>Fri, 24 Oct 2025 14:39:41 GMT</pubDate>
+            <pubDate>Sun, 26 Oct 2025 12:59:28 GMT</pubDate>
             <description><![CDATA[01-获取指定网站的所有的链接 
 需求就是获取指定网站内的所有的url，这个还是有难度的，因为需要一]]></description>
         </item>
@@ -62,7 +62,7 @@ windows环境安装openCV &ZeroWidthSpace;
             <title><![CDATA[context是什么]]></title>
             <link>https://blog.share888.top/note/back-end/go/base/context是什么.html</link>
             <guid>https://blog.share888.top/note/back-end/go/base/context是什么.html</guid>
-            <pubDate>Fri, 24 Oct 2025 14:39:41 GMT</pubDate>
+            <pubDate>Sun, 26 Oct 2025 12:59:28 GMT</pubDate>
             <description><![CDATA[context.Context是什么？ 
 ctx.Done() 通道	说明书上的“取消信号”指示灯
 ]]></description>
@@ -71,7 +71,7 @@ ctx.Done() 通道	说明书上的“取消信号”指示灯
             <title><![CDATA[go的cron表达式]]></title>
             <link>https://blog.share888.top/note/back-end/go/go-tool/go的cron表达式.html</link>
             <guid>https://blog.share888.top/note/back-end/go/go-tool/go的cron表达式.html</guid>
-            <pubDate>Fri, 24 Oct 2025 14:39:41 GMT</pubDate>
+            <pubDate>Sun, 26 Oct 2025 12:59:28 GMT</pubDate>
             <description><![CDATA[go正则表达式 
 🔍 Cron 表达式格式说明（6位或5位） &ZeroWidthSpace;
 
@@ -81,7 +81,7 @@ ctx.Done() 通道	说明书上的“取消信号”指示灯
             <title><![CDATA[httpClient请求]]></title>
             <link>https://blog.share888.top/note/back-end/go/go-tool/httpClient请求.html</link>
             <guid>https://blog.share888.top/note/back-end/go/go-tool/httpClient请求.html</guid>
-            <pubDate>Fri, 24 Oct 2025 14:39:41 GMT</pubDate>
+            <pubDate>Sun, 26 Oct 2025 12:59:28 GMT</pubDate>
             <description><![CDATA[httpClient请求工具类 
 工具类 &ZeroWidthSpace;
 支持：纯get请求
@@ -91,7 +91,7 @@ po]]></description>
             <title><![CDATA[yaml和go结构体转换]]></title>
             <link>https://blog.share888.top/note/back-end/go/go-tool/yaml和go结构体转换.html</link>
             <guid>https://blog.share888.top/note/back-end/go/go-tool/yaml和go结构体转换.html</guid>
-            <pubDate>Fri, 24 Oct 2025 14:39:41 GMT</pubDate>
+            <pubDate>Sun, 26 Oct 2025 12:59:28 GMT</pubDate>
             <description><![CDATA[yaml和go结构体转换 
 goimport "gopkg.in/yaml.v3"
 
@@ -101,7 +101,7 @@ func ma]]></description>
             <title><![CDATA[数据类型转换工具类]]></title>
             <link>https://blog.share888.top/note/back-end/go/go-tool/数据类型转换工具类.html</link>
             <guid>https://blog.share888.top/note/back-end/go/go-tool/数据类型转换工具类.html</guid>
-            <pubDate>Fri, 24 Oct 2025 14:39:41 GMT</pubDate>
+            <pubDate>Sun, 26 Oct 2025 12:59:28 GMT</pubDate>
             <description><![CDATA[数据类型转换工具类 
 go的类型转换真的烦！！！！！！！
 type_transformation.g]]></description>
@@ -110,7 +110,7 @@ type_transformation.g]]></description>
             <title><![CDATA[线程阻塞的几种方法]]></title>
             <link>https://blog.share888.top/note/back-end/go/go-tool/线程阻塞的几种方法.html</link>
             <guid>https://blog.share888.top/note/back-end/go/go-tool/线程阻塞的几种方法.html</guid>
-            <pubDate>Fri, 24 Oct 2025 14:39:41 GMT</pubDate>
+            <pubDate>Sun, 26 Oct 2025 12:59:28 GMT</pubDate>
             <description><![CDATA[线程阻塞的几种方法 
 1. 使用信号量 (Signal) 监听 (Go语言中最常见) &ZeroWi]]></description>
         </item>
@@ -118,7 +118,7 @@ type_transformation.g]]></description>
             <title><![CDATA[gorm真实项目开发]]></title>
             <link>https://blog.share888.top/note/back-end/go/gorm/gorm真实项目开发.html</link>
             <guid>https://blog.share888.top/note/back-end/go/gorm/gorm真实项目开发.html</guid>
-            <pubDate>Fri, 24 Oct 2025 14:39:41 GMT</pubDate>
+            <pubDate>Sun, 26 Oct 2025 12:59:28 GMT</pubDate>
             <description><![CDATA[gorm真实项目开发 
 示例demo:https://gitee.com/lzh1995/gorm-]]></description>
         </item>
@@ -126,7 +126,7 @@ type_transformation.g]]></description>
             <title><![CDATA[hertz中间件]]></title>
             <link>https://blog.share888.top/note/back-end/go/hertz/hertz中间件.html</link>
             <guid>https://blog.share888.top/note/back-end/go/hertz/hertz中间件.html</guid>
-            <pubDate>Fri, 24 Oct 2025 14:39:41 GMT</pubDate>
+            <pubDate>Sun, 26 Oct 2025 12:59:28 GMT</pubDate>
             <description><![CDATA[hertz中间件 
 中间件是 Hertz 中非常重要的概念，允许你在请求处理前后执行代码
 日志中间件]]></description>
@@ -135,7 +135,7 @@ type_transformation.g]]></description>
             <title><![CDATA[hertz代码生成]]></title>
             <link>https://blog.share888.top/note/back-end/go/hertz/hertz代码生成.html</link>
             <guid>https://blog.share888.top/note/back-end/go/hertz/hertz代码生成.html</guid>
-            <pubDate>Fri, 24 Oct 2025 14:39:41 GMT</pubDate>
+            <pubDate>Sun, 26 Oct 2025 12:59:28 GMT</pubDate>
             <description><![CDATA[hertz代码生成 
 
 统一数据结构和接口定义，减少手动编写重复代码的错误
@@ -145,7 +145,7 @@ type_transformation.g]]></description>
             <title><![CDATA[hertz初体验]]></title>
             <link>https://blog.share888.top/note/back-end/go/hertz/hertz初体验.html</link>
             <guid>https://blog.share888.top/note/back-end/go/hertz/hertz初体验.html</guid>
-            <pubDate>Fri, 24 Oct 2025 14:39:41 GMT</pubDate>
+            <pubDate>Sun, 26 Oct 2025 12:59:28 GMT</pubDate>
             <description><![CDATA[hertz初体验 
 一个简单的web项目 &ZeroWidthSpace;
 gopackage ma]]></description>
@@ -154,7 +154,7 @@ gopackage ma]]></description>
             <title><![CDATA[hertz文件相关]]></title>
             <link>https://blog.share888.top/note/back-end/go/hertz/hertz文件相关.html</link>
             <guid>https://blog.share888.top/note/back-end/go/hertz/hertz文件相关.html</guid>
-            <pubDate>Fri, 24 Oct 2025 14:39:41 GMT</pubDate>
+            <pubDate>Sun, 26 Oct 2025 12:59:28 GMT</pubDate>
             <description><![CDATA[hertz文件相关 
 文件上传 &ZeroWidthSpace;
 包含文件上传和附带其他的信息
@@ -164,7 +164,7 @@ go]]></description>
             <title><![CDATA[thrift文件]]></title>
             <link>https://blog.share888.top/note/back-end/go/hertz/thrift文件.html</link>
             <guid>https://blog.share888.top/note/back-end/go/hertz/thrift文件.html</guid>
-            <pubDate>Fri, 24 Oct 2025 14:39:41 GMT</pubDate>
+            <pubDate>Sun, 26 Oct 2025 12:59:28 GMT</pubDate>
             <description><![CDATA[thrift文件 
 注意：
 
@@ -175,7 +175,7 @@ go]]></description>
             <title><![CDATA[ETCD注册中心]]></title>
             <link>https://blog.share888.top/note/back-end/go/kitex/ETCD注册中心.html</link>
             <guid>https://blog.share888.top/note/back-end/go/kitex/ETCD注册中心.html</guid>
-            <pubDate>Fri, 24 Oct 2025 14:39:41 GMT</pubDate>
+            <pubDate>Sun, 26 Oct 2025 12:59:28 GMT</pubDate>
             <description><![CDATA[ETCD注册中心 
 官网：https://etcd.io/
 windows安装 &ZeroWidth]]></description>
@@ -184,7 +184,7 @@ windows安装 &ZeroWidth]]></description>
             <title><![CDATA[kitex代码生成]]></title>
             <link>https://blog.share888.top/note/back-end/go/kitex/kitex代码生成.html</link>
             <guid>https://blog.share888.top/note/back-end/go/kitex/kitex代码生成.html</guid>
-            <pubDate>Fri, 24 Oct 2025 14:39:41 GMT</pubDate>
+            <pubDate>Sun, 26 Oct 2025 12:59:28 GMT</pubDate>
             <description><![CDATA[kitex代码生成 
 数据库 &ZeroWidthSpace;
 sqlCREATE DATABASE]]></description>
