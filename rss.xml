@@ -4,7 +4,7 @@
         <title>卡卡罗特</title>
         <link>https://blog.share888.top</link>
         <description>程序猿,日常分享,实用工具,个人网站,效率软件, 健身,前端,VUE,Java,JavaWEB,Spring,SpringBoot,微服务,副业分享,全栈开发,独立开发,独立站长,程序猿工具集</description>
-        <lastBuildDate>Mon, 20 Jul 2026 14:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 15:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
@@ -13,7 +13,7 @@
             <title><![CDATA[eino实现Agent]]></title>
             <link>https://blog.share888.top/note/ai/ai/eino实现Agent.html</link>
             <guid>https://blog.share888.top/note/ai/ai/eino实现Agent.html</guid>
-            <pubDate>Mon, 20 Jul 2026 14:11:23 GMT</pubDate>
+            <pubDate>Wed, 22 Jul 2026 15:21:20 GMT</pubDate>
             <description><![CDATA[eino实现Agent 
 eino 是字节官方出来的Agent框架，类似spring-ai
 初体验-]]></description>
@@ -22,7 +22,7 @@ eino 是字节官方出来的Agent框架，类似spring-ai
             <title><![CDATA[eino整合RAG]]></title>
             <link>https://blog.share888.top/note/ai/ai/eino整合RAG.html</link>
             <guid>https://blog.share888.top/note/ai/ai/eino整合RAG.html</guid>
-            <pubDate>Mon, 20 Jul 2026 14:11:23 GMT</pubDate>
+            <pubDate>Wed, 22 Jul 2026 15:21:20 GMT</pubDate>
             <description><![CDATA[eino整合RAG 
 Milvus 官方文档：https://milvus.io/docs
 支持的向]]></description>
@@ -31,7 +31,7 @@ Milvus 官方文档：https://milvus.io/docs
             <title><![CDATA[eino整合Tools]]></title>
             <link>https://blog.share888.top/note/ai/ai/eino整合Tools.html</link>
             <guid>https://blog.share888.top/note/ai/ai/eino整合Tools.html</guid>
-            <pubDate>Mon, 20 Jul 2026 14:11:23 GMT</pubDate>
+            <pubDate>Wed, 22 Jul 2026 15:21:20 GMT</pubDate>
             <description><![CDATA[eino整合Tools 
 单次对话 &ZeroWidthSpace;
 gopackage main
@@ -41,7 +41,7 @@ gopackage main
             <title><![CDATA[go整合向量数据库ChromaDB]]></title>
             <link>https://blog.share888.top/note/ai/ai/go整合向量数据库ChromaDB.html</link>
             <guid>https://blog.share888.top/note/ai/ai/go整合向量数据库ChromaDB.html</guid>
-            <pubDate>Mon, 20 Jul 2026 14:11:23 GMT</pubDate>
+            <pubDate>Wed, 22 Jul 2026 15:21:20 GMT</pubDate>
             <description><![CDATA[go整合向量数据库ChromaDB 
 启动ChromaDB服务
 shell# 1. 拉取指定版本的镜]]></description>
@@ -50,7 +50,7 @@ shell# 1. 拉取指定版本的镜]]></description>
             <title><![CDATA[langchainjs]]></title>
             <link>https://blog.share888.top/note/ai/ai/langchainjs.html</link>
             <guid>https://blog.share888.top/note/ai/ai/langchainjs.html</guid>
-            <pubDate>Mon, 20 Jul 2026 14:11:23 GMT</pubDate>
+            <pubDate>Wed, 22 Jul 2026 15:21:20 GMT</pubDate>
             <description><![CDATA[langchainjs 
 github:https://github.com/langchain-a]]></description>
         </item>
@@ -58,7 +58,7 @@ github:https://github.com/langchain-a]]></description>
             <title><![CDATA[langchain实现Agent]]></title>
             <link>https://blog.share888.top/note/ai/ai/langchain实现Agent.html</link>
             <guid>https://blog.share888.top/note/ai/ai/langchain实现Agent.html</guid>
-            <pubDate>Mon, 20 Jul 2026 14:11:23 GMT</pubDate>
+            <pubDate>Wed, 22 Jul 2026 15:21:20 GMT</pubDate>
             <description><![CDATA[langchain实现Agent 
 代码示例：https://gitee.com/lzh1995/l]]></description>
         </item>
@@ -66,7 +66,7 @@ github:https://github.com/langchain-a]]></description>
             <title><![CDATA[ollama调用各大模型]]></title>
             <link>https://blog.share888.top/note/ai/ai/ollama调用各大模型.html</link>
             <guid>https://blog.share888.top/note/ai/ai/ollama调用各大模型.html</guid>
-            <pubDate>Mon, 20 Jul 2026 14:11:23 GMT</pubDate>
+            <pubDate>Wed, 22 Jul 2026 15:21:20 GMT</pubDate>
             <description><![CDATA[ollama调用各大模型 
 聊天 &ZeroWidthSpace;
 调用deepseek &Zero]]></description>
@@ -75,7 +75,7 @@ github:https://github.com/langchain-a]]></description>
             <title><![CDATA[spring-ai]]></title>
             <link>https://blog.share888.top/note/ai/ai/spring-ai.html</link>
             <guid>https://blog.share888.top/note/ai/ai/spring-ai.html</guid>
-            <pubDate>Mon, 20 Jul 2026 14:11:23 GMT</pubDate>
+            <pubDate>Wed, 22 Jul 2026 15:21:20 GMT</pubDate>
             <description><![CDATA[spring-ai 
 https://gitee.com/lzh1995/spring-ai-dem]]></description>
         </item>
@@ -83,7 +83,7 @@ https://gitee.com/lzh1995/spring-ai-dem]]></description>
             <title><![CDATA[自定义一个MCP]]></title>
             <link>https://blog.share888.top/note/ai/ai/自定义一个MCP.html</link>
             <guid>https://blog.share888.top/note/ai/ai/自定义一个MCP.html</guid>
-            <pubDate>Mon, 20 Jul 2026 14:11:23 GMT</pubDate>
+            <pubDate>Wed, 22 Jul 2026 15:21:20 GMT</pubDate>
             <description><![CDATA[自定义一个MCP 
 mcp的要求 &ZeroWidthSpace;
 必须要实现的方法 &ZeroWi]]></description>
@@ -92,7 +92,7 @@ mcp的要求 &ZeroWidthSpace;
             <title><![CDATA[opencv初体验]]></title>
             <link>https://blog.share888.top/note/ai/opencv/opencv初体验.html</link>
             <guid>https://blog.share888.top/note/ai/opencv/opencv初体验.html</guid>
-            <pubDate>Mon, 20 Jul 2026 14:11:23 GMT</pubDate>
+            <pubDate>Wed, 22 Jul 2026 15:21:20 GMT</pubDate>
             <description><![CDATA[openCV初体验 
 windows环境安装openCV &ZeroWidthSpace;
 官网地址]]></description>
@@ -101,7 +101,7 @@ windows环境安装openCV &ZeroWidthSpace;
             <title><![CDATA[01-Bing每日一图接口]]></title>
             <link>https://blog.share888.top/note/back-end/api/01-Bing每日一图接口.html</link>
             <guid>https://blog.share888.top/note/back-end/api/01-Bing每日一图接口.html</guid>
-            <pubDate>Mon, 20 Jul 2026 14:11:23 GMT</pubDate>
+            <pubDate>Wed, 22 Jul 2026 15:21:20 GMT</pubDate>
             <description><![CDATA[01-Bing每日一图接口 
 接口地址：https://cn.bing.com/HPImageArc]]></description>
         </item>
@@ -109,7 +109,7 @@ windows环境安装openCV &ZeroWidthSpace;
             <title><![CDATA[02-腾讯API高清QQ头像https调用接口]]></title>
             <link>https://blog.share888.top/note/back-end/api/02-腾讯API高清QQ头像https调用接口.html</link>
             <guid>https://blog.share888.top/note/back-end/api/02-腾讯API高清QQ头像https调用接口.html</guid>
-            <pubDate>Mon, 20 Jul 2026 14:11:23 GMT</pubDate>
+            <pubDate>Wed, 22 Jul 2026 15:21:20 GMT</pubDate>
             <description><![CDATA[02-腾讯API高清QQ头像https调用接口 
 写网页的时候，会经常使用到调用QQ头像来获取自己的]]></description>
         </item>
@@ -117,7 +117,7 @@ windows环境安装openCV &ZeroWidthSpace;
             <title><![CDATA[01-获取指定网站的所有的链接]]></title>
             <link>https://blog.share888.top/note/back-end/crawl/01-获取指定网站的所有的链接.html</link>
             <guid>https://blog.share888.top/note/back-end/crawl/01-获取指定网站的所有的链接.html</guid>
-            <pubDate>Mon, 20 Jul 2026 14:11:23 GMT</pubDate>
+            <pubDate>Wed, 22 Jul 2026 15:21:20 GMT</pubDate>
             <description><![CDATA[01-获取指定网站的所有的链接 
 需求就是获取指定网站内的所有的url，这个还是有难度的，因为需要一]]></description>
         </item>
@@ -125,7 +125,7 @@ windows环境安装openCV &ZeroWidthSpace;
             <title><![CDATA[context是什么]]></title>
             <link>https://blog.share888.top/note/back-end/go/base/context是什么.html</link>
             <guid>https://blog.share888.top/note/back-end/go/base/context是什么.html</guid>
-            <pubDate>Mon, 20 Jul 2026 14:11:23 GMT</pubDate>
+            <pubDate>Wed, 22 Jul 2026 15:21:20 GMT</pubDate>
             <description><![CDATA[context.Context是什么？ 
 ctx.Done() 通道	说明书上的“取消信号”指示灯
 ]]></description>
@@ -134,7 +134,7 @@ ctx.Done() 通道	说明书上的“取消信号”指示灯
             <title><![CDATA[RWMutex读写锁]]></title>
             <link>https://blog.share888.top/note/back-end/go/go-tool/RWMutex读写锁.html</link>
             <guid>https://blog.share888.top/note/back-end/go/go-tool/RWMutex读写锁.html</guid>
-            <pubDate>Mon, 20 Jul 2026 14:11:23 GMT</pubDate>
+            <pubDate>Wed, 22 Jul 2026 15:21:20 GMT</pubDate>
             <description><![CDATA[RWMutex读写锁 
 Demo示例 &ZeroWidthSpace;
 合理使用 RWMutex：
@@ -144,7 +144,7 @@ Demo示例 &ZeroWidthSpace;
             <title><![CDATA[SyncMap的使用]]></title>
             <link>https://blog.share888.top/note/back-end/go/go-tool/SyncMap的使用.html</link>
             <guid>https://blog.share888.top/note/back-end/go/go-tool/SyncMap的使用.html</guid>
-            <pubDate>Mon, 20 Jul 2026 14:11:23 GMT</pubDate>
+            <pubDate>Wed, 22 Jul 2026 15:21:20 GMT</pubDate>
             <description><![CDATA[SyncMap的使用 
 sync.Map 是 Go 语言标准库 sync 包中提供的一种 并发安全的]]></description>
         </item>
@@ -152,7 +152,7 @@ sync.Map 是 Go 语言标准库 sync 包中提供的一种 并发安全的]]></d
             <title><![CDATA[defer的使用]]></title>
             <link>https://blog.share888.top/note/back-end/go/go-tool/defer的使用.html</link>
             <guid>https://blog.share888.top/note/back-end/go/go-tool/defer的使用.html</guid>
-            <pubDate>Mon, 20 Jul 2026 14:11:23 GMT</pubDate>
+            <pubDate>Wed, 22 Jul 2026 15:21:20 GMT</pubDate>
             <description><![CDATA[defer的使用 
 
 ✅ 1. defer 是函数级别的 &ZeroWidthSpace;
@@ -163,7 +163,7 @@ def]]></description>
             <title><![CDATA[go字符串工具类]]></title>
             <link>https://blog.share888.top/note/back-end/go/go-tool/go字符串工具类.html</link>
             <guid>https://blog.share888.top/note/back-end/go/go-tool/go字符串工具类.html</guid>
-            <pubDate>Mon, 20 Jul 2026 14:11:23 GMT</pubDate>
+            <pubDate>Wed, 22 Jul 2026 15:21:20 GMT</pubDate>
             <description><![CDATA[go字符串工具类 
 go// Package strutil 提供字符串操作的工具函数，灵感来源于 ]]></description>
         </item>
@@ -171,7 +171,7 @@ go// Package strutil 提供字符串操作的工具函数，灵感来源于 ]]><
             <title><![CDATA[go生成UUID]]></title>
             <link>https://blog.share888.top/note/back-end/go/go-tool/go生成UUID.html</link>
             <guid>https://blog.share888.top/note/back-end/go/go-tool/go生成UUID.html</guid>
-            <pubDate>Mon, 20 Jul 2026 14:11:23 GMT</pubDate>
+            <pubDate>Wed, 22 Jul 2026 15:21:20 GMT</pubDate>
             <description><![CDATA[go生成UUID 
 gopackage main
 
@@ -182,7 +182,7 @@ import (
             <title><![CDATA[go的cron表达式]]></title>
             <link>https://blog.share888.top/note/back-end/go/go-tool/go的cron表达式.html</link>
             <guid>https://blog.share888.top/note/back-end/go/go-tool/go的cron表达式.html</guid>
-            <pubDate>Mon, 20 Jul 2026 14:11:23 GMT</pubDate>
+            <pubDate>Wed, 22 Jul 2026 15:21:20 GMT</pubDate>
             <description><![CDATA[go正则表达式 
 🔍 Cron 表达式格式说明（6位或5位） &ZeroWidthSpace;
 
